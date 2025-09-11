@@ -1,1 +1,1 @@
-# my-portfoliou
+My portfolio is a clean, modern, and responsive website showcasing my skills and projects. Built with HTML, CSS, and JavaScript, it serves as a central hub to demonstrate my front-end development capabilities to potential employers and collaborators. The design is simple and professional, ensuring a smooth and intuitive user experience.
